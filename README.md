@@ -8,3 +8,5 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
+# <script type="text/x-tmpl" id="tmpl-demo" src="https://localhost/neuro.sdk.min.js"></script>
